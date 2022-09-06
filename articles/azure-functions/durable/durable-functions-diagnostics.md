@@ -515,7 +515,7 @@ This is useful for debugging because you see exactly what state an orchestration
 
 ## 3rd party tools
 
-The Durable Functions community publishes a variety of tools that can be useful for debugging, diagnostics, or monitoring. One such tool is the open source [Durable Functions Monitor](https://github.com/scale-tone/DurableFunctionsMonitor#durable-functions-monitor), a graphical tool for monitoring, managing, and debugging your orchestration instances.
+The Durable Functions community publishes a variety of tools that can be useful for debugging, diagnostics, or monitoring. One such tool is the open source [Durable Functions Monitor](https://github.com/microsoft/DurableFunctionsMonitor), a graphical tool for monitoring, managing, and debugging your orchestration instances.
 
 ## Next steps
 
